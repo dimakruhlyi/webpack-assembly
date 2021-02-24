@@ -14,5 +14,5 @@ This assembly includes:
 - webpack dev server
 - babel, plugins for babel
 - compiling .jsx and .ts files
-- esling
+- eslint
 - webpack-bundle-analyzer
